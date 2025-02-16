@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+
+/dxjkg hrid
 class distance
 {
     private:
